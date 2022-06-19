@@ -52,7 +52,7 @@ var apps = [{
   icon: 'buyme',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://www.buymeacoffee.com/blueedgetechno'
+  payload: 'https://www.buymeacoffee.com'
 },
 {
   name: 'Store',
@@ -117,7 +117,7 @@ var apps = [{
   icon: 'help',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://win11react-docs.andrewstech.me/'
+  payload: 'https://t.me/LasinduOfficial'
 },
 {
   name: 'Yammer',
@@ -129,7 +129,7 @@ var apps = [{
   icon: 'mail',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'mailto:blueedgetechno@gmail.com'
+  payload: 'mailto:mglasindusenash@gmail.com'
 },
 {
   name: 'Movies',
@@ -197,7 +197,7 @@ var apps = [{
   icon: 'pinterest',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://www.pinterest.com/blueedgetechno/'
+  payload: 'https://www.pinterest.com'
 },
 {
   name: 'Security',
@@ -230,7 +230,7 @@ var apps = [{
   icon: 'twitter',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://twitter.com/blueedgetechno'
+  payload: 'https://twitter.com/kingamdaofficial'
 },
 {
   name: 'Teams',
@@ -284,14 +284,13 @@ var apps = [{
   icon: 'github',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://github.com/blueedgetechno/win11React'
+  payload: 'https://github.com/King-Amda'
 },
 {
   name: 'Unescape',
   icon: 'unescape',
   type: 'action',
   action: 'EXTERNAL',
-  payload: 'https://blueedge.me/unescape'
 },
 {
   name: 'Discord',
